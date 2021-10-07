@@ -3,3 +3,5 @@
 bucket-credential.json
 .pgdata
 .devcontainer
+.env.example
+bucket-credential-encoder-dw.json
